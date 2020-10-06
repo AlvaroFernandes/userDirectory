@@ -24,7 +24,7 @@
 On this application you can sort the employees by "name" clicking on the name collunm, and also search for employees.
 
 Screen shot of application:
-![photo](./public/assets/img/photo.png)
+![photo](./src/assets/img/photo.png)
 
 
   ## License
